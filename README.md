@@ -22,4 +22,4 @@
 git clone https://github.com/han-woo-kyeong/face-blur-project.git
 cd face-blur-project
 pip install -r requirements.txt
-python face-mozaic-final.py
+python face_blur_final.py

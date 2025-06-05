@@ -1,6 +1,0 @@
-opencv-python
-torch
-numpy
-ultralytics
-facenet-pytorch
-torchvision

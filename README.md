@@ -21,7 +21,7 @@
 ## 📂 실행 방법
 
 ```bash
-git clone https://github.com/han-woo-kyeong/face-blur-project.git
-cd face-blur-project
+git clone https://github.com/han-woo-kyeong/face_blur_project.git
+cd face_blur_project
 pip install -r requirements.txt
 python face_blur_final.py

@@ -25,4 +25,4 @@ git clone https://github.com/han-woo-kyeong/face_blur_project.git
 cd face_blur_project
 pip install -r requirements.txt
 # yolov8n-face.pt 파일을 yolov8/ 폴더에 복사
-python face_blur_final.py
+python 얼굴저장_블러효과_최종본.py
